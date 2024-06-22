@@ -2,7 +2,7 @@ import { calculatecartquantity } from "../../data/cart.js";
 function checkoutheaderhtml() {
    const checkoutheader = `
       <div class="checkout-header-left-section">
-         <a href="amazon.html">
+         <a href="index.html">
             <img class="amazon-logo" src="images/amazon-logo.png">
             <img class="amazon-mobile-logo" src="images/amazon-mobile-logo.png">
          </a>
